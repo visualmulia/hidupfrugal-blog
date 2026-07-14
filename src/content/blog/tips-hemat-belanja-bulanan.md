@@ -1,12 +1,14 @@
 ---
-title: "10 Tips Hemat Belanja Bulanan Agar Dompet Tidak Jebol"
-date: "2026-07-14"
-author: "Admin"
-featured_image: ""
+title: 10 Tips Hemat Belanja Bulanan Agar Dompet Tidak Jebol
+date: 2026-07-14
+author: Admin Frugal Living
+featured_image: /images/uploads/01-2-.png
+description: Terapkan tips hemat belanja bulanan berikut agar pengeluaran lebih
+  terkendali. Mulai dari membuat daftar, membandingkan harga, hingga
+  memanfaatkan promo.
 tags:
-  - "tips hemat belanja bulanan"
-  - "belanja hemat"
-description: "Terapkan tips hemat belanja bulanan berikut agar pengeluaran lebih terkendali. Mulai dari membuat daftar, membandingkan harga, hingga memanfaatkan promo."
+  - tips hemat belanja bulanan
+  - belanja hemat
 ---
 
 Belanja bulanan seringkali menjadi momok yang membuat pengeluaran membengkak. Namun, dengan strategi yang tepat, Anda bisa berbelanja kebutuhan pokok tanpa menguras kantong. Kuncinya adalah perencanaan dan disiplin. Berikut adalah 10 tips hemat belanja bulanan yang bisa langsung Anda praktikkan.
