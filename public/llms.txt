@@ -1,0 +1,10 @@
+# HidupFrugal
+Tips praktis gaya hidup hemat (frugal living), manajemen keuangan pribadi (personal finance), dan panduan investasi pemula.
+
+## Core Pages
+- [Beranda](https://www.hidupfrugal.web.id/) - Halaman utama cerdas finansial.
+- [Tentang Kami](https://www.hidupfrugal.web.id/#about) - Informasi tentang redaksi HidupFrugal.
+- [Kontak](https://www.hidupfrugal.web.id/contact) - Hubungi kami.
+- [Disclaimer](https://www.hidupfrugal.web.id/disclaimer) - Sangkalan hukum keuangan.
+- [Privacy Policy](https://www.hidupfrugal.web.id/privacy) - Kebijakan privasi.
+- [Terms of Service](https://www.hidupfrugal.web.id/terms) - Syarat & ketentuan.
