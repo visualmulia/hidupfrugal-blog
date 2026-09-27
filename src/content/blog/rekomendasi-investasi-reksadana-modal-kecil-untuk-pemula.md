@@ -1,14 +1,16 @@
 ---
-title: "Rekomendasi Investasi Reksadana Modal Kecil untuk Pemula: Panduan Lengkap 2025"
-date: "2026-09-24"
-author: "Admin"
-featured_image: ""
+title: "Rekomendasi Investasi Reksadana Modal Kecil untuk Pemula: Panduan
+  Lengkap 2026"
+date: 2026-09-24
+author: Admin
+featured_image: /images/uploads/panduan-investasi-reksadana-2026.jpg
+description: Cari rekomendasi investasi reksadana modal kecil untuk pemula?
+  Simak panduan lengkap, jenis reksadana, tips memilih, dan perbandingan produk
+  terbaik di sini.
 tags:
-  - "Investasi"
-  - "Reksadana"
-description: "Cari rekomendasi investasi reksadana modal kecil untuk pemula? Simak panduan lengkap, jenis reksadana, tips memilih, dan perbandingan produk terbaik di sini."
+  - Investasi
+  - Reksadana
 ---
-
 ## Mengapa Reksadana Cocok untuk Investor Pemula dengan Modal Kecil?
 
 Reksadana adalah pilihan investasi yang tepat bagi pemula karena modalnya sangat terjangkau, mulai dari Rp10.000, dan dikelola oleh manajer investasi profesional. Dengan reksadana, Anda tidak perlu memiliki pengetahuan mendalam tentang pasar modal untuk mulai berinvestasi. Selain itu, reksadana menawarkan diversifikasi otomatis, sehingga risiko dapat diminimalkan.
@@ -41,27 +43,27 @@ Berikut beberapa rekomendasi reksadana yang cocok untuk pemula dengan modal keci
 
 ### Reksadana Pasar Uang
 
-- **INSIGHT MONEY**: Imbal hasil 1 tahun 6,10% (per 28 Feb 2025), dana kelolaan Rp740,01 M. Minimal pembelian Rp10.000.
-- **Capital Money Market Fund**: Imbal hasil 5,99%, dana kelolaan Rp787,81 M.
-- **PNM DANA TUNAI**: Imbal hasil 5,87%, dana kelolaan Rp464,58 M.
+* **INSIGHT MONEY**: Imbal hasil 1 tahun 6,10% (per 28 Feb 2026), dana kelolaan Rp740,01 M. Minimal pembelian Rp10.000.
+* **Capital Money Market Fund**: Imbal hasil 5,99%, dana kelolaan Rp787,81 M.
+* **PNM DANA TUNAI**: Imbal hasil 5,87%, dana kelolaan Rp464,58 M.
 
 ### Reksadana Campuran
 
-- **HPAM Flexi Indonesia Sehat Kelas A**: Return 1 tahun +21,31%, minimal pembelian Rp50.000.
-- **TRIM Syariah Berimbang**: Return +16,21%, minimal pembelian Rp100.000.
-- **Trimegah Balanced Absolute Strategy Kelas A**: Return +15,15%, minimal pembelian Rp100.000.
+* **HPAM Flexi Indonesia Sehat Kelas A**: Return 1 tahun +21,31%, minimal pembelian Rp50.000.
+* **TRIM Syariah Berimbang**: Return +16,21%, minimal pembelian Rp100.000.
+* **Trimegah Balanced Absolute Strategy Kelas A**: Return +15,15%, minimal pembelian Rp100.000.
 
 ## Perbandingan Reksadana Pasar Uang Terbaik
 
-| Nama Reksadana | Imbal Hasil 1 Tahun | Dana Kelolaan | Minimal Pembelian |
-|----------------|---------------------|---------------|-------------------|
-| INSIGHT MONEY | 6,10% | Rp740,01 M | Rp10.000 |
-| Capital Money Market Fund | 5,99% | Rp787,81 M | Rp10.000 |
-| INSIGHT MONEY SYARIAH | 5,91% | Rp191,61 M | Rp10.000 |
-| PNM DANA TUNAI | 5,87% | Rp464,58 M | Rp10.000 |
-| MEGA DANA KAS | 5,78% | Rp411,73 M | Rp10.000 |
-| Shinhan Money Market Fund | 5,66% | Rp486,33 M | Rp10.000 |
-| KISI Money Market Fund | 5,62% | Rp1,55 T | Rp10.000 |
+| Nama Reksadana            | Imbal Hasil 1 Tahun | Dana Kelolaan | Minimal Pembelian |
+| ------------------------- | ------------------- | ------------- | ----------------- |
+| INSIGHT MONEY             | 6,10%               | Rp740,01 M    | Rp10.000          |
+| Capital Money Market Fund | 5,99%               | Rp787,81 M    | Rp10.000          |
+| INSIGHT MONEY SYARIAH     | 5,91%               | Rp191,61 M    | Rp10.000          |
+| PNM DANA TUNAI            | 5,87%               | Rp464,58 M    | Rp10.000          |
+| MEGA DANA KAS             | 5,78%               | Rp411,73 M    | Rp10.000          |
+| Shinhan Money Market Fund | 5,66%               | Rp486,33 M    | Rp10.000          |
+| KISI Money Market Fund    | 5,62%               | Rp1,55 T      | Rp10.000          |
 
 *Data per 28 Februari 2025 (sumber: Brights.id)*
 
