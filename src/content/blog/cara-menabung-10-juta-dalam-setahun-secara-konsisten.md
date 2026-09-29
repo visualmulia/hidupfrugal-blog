@@ -1,12 +1,14 @@
 ---
 title: "Cara Menabung 10 Juta dalam Setahun Secara Konsisten: Panduan Lengkap"
-date: "2026-08-13"
-author: "Admin"
-featured_image: ""
+date: 2026-08-13
+author: Admin
+featured_image: /images/uploads/cara-nabung-10-juta-setahun.jpg
+description: Ingin tahu cara menabung 10 juta dalam setahun secara konsisten?
+  Simak panduan lengkap dengan strategi jitu, tips hemat, dan tabel perbandingan
+  metode menabung.
 tags:
-  - "menabung"
-  - "tips keuangan"
-description: "Ingin tahu cara menabung 10 juta dalam setahun secara konsisten? Simak panduan lengkap dengan strategi jitu, tips hemat, dan tabel perbandingan metode menabung."
+  - menabung
+  - tips keuangan
 ---
 
 Menabung 10 juta dalam setahun mungkin terdengar sulit, tetapi sebenarnya sangat mungkin jika Anda memiliki strategi yang tepat dan konsisten. Dengan membagi target menjadi jumlah harian, mingguan, atau bulanan, Anda bisa mencapai tujuan ini tanpa merasa terbebani. Kuncinya adalah disiplin, perencanaan yang matang, dan memanfaatkan metode yang sesuai dengan gaya hidup Anda. Artikel ini akan membahas secara mendalam cara menabung 10 juta dalam setahun secara konsisten, lengkap dengan tips praktis, tabel perbandingan, dan jawaban atas pertanyaan umum.
