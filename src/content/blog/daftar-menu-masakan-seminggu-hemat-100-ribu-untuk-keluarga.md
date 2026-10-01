@@ -1,12 +1,15 @@
 ---
-title: "Daftar Menu Masakan Seminggu Hemat 100 Ribu untuk Keluarga: Solusi Belanja Cerdas dan Bergizi"
-date: "2026-10-01"
-author: "Admin"
-featured_image: ""
+title: "Daftar Menu Masakan Seminggu Hemat 100 Ribu untuk Keluarga: Solusi
+  Belanja Cerdas dan Bergizi"
+date: 2026-10-01
+author: Admin
+featured_image: /images/uploads/resep-masakan-murah-tapi-hasilnya-mewah.jpg
+description: Ingin masak hemat? Simak daftar menu masakan seminggu hemat 100
+  ribu untuk keluarga. Lengkap dengan tips belanja, tabel perbandingan, dan
+  resep praktis.
 tags:
-  - "Menu Hemat"
-  - "Masakan Sehari-hari"
-description: "Ingin masak hemat? Simak daftar menu masakan seminggu hemat 100 ribu untuk keluarga. Lengkap dengan tips belanja, tabel perbandingan, dan resep praktis."
+  - Menu Hemat
+  - Masakan Sehari-hari
 ---
 
 ## Mengapa Menu Masakan Seminggu Hemat 100 Ribu untuk Keluarga Bisa Terwujud?
