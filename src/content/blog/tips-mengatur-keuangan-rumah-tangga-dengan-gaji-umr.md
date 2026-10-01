@@ -1,12 +1,15 @@
 ---
-title: "Tips Mengatur Keuangan Rumah Tangga dengan Gaji UMR: Panduan Lengkap agar Tetap Stabil"
-date: "2026-07-23"
-author: "Admin"
-featured_image: ""
+title: "Tips Mengatur Keuangan Rumah Tangga dengan Gaji UMR: Panduan Lengkap
+  agar Tetap Stabil"
+date: 2026-07-23
+author: Admin
+featured_image: /images/uploads/rahasia-atur-gaji-umr-mudah.jpg
+description: Pelajari tips mengatur keuangan rumah tangga dengan gaji UMR secara
+  efektif. Panduan lengkap mencakup budgeting, investasi, dan strategi hemat
+  untuk masa depan yang lebih baik.
 tags:
-  - "keuangan rumah tangga"
-  - "gaji UMR"
-description: "Pelajari tips mengatur keuangan rumah tangga dengan gaji UMR secara efektif. Panduan lengkap mencakup budgeting, investasi, dan strategi hemat untuk masa depan yang lebih baik."
+  - keuangan rumah tangga
+  - gaji UMR
 ---
 
 Mengatur keuangan rumah tangga dengan gaji UMR memang menantang, tetapi bukan hal yang mustahil. Kuncinya adalah disiplin, perencanaan yang matang, dan memanfaatkan setiap rupiah secara optimal. Artikel ini akan membahas langkah-langkah praktis yang bisa Anda terapkan mulai hari ini.
