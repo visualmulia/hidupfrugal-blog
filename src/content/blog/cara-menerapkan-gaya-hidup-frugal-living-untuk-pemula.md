@@ -1,12 +1,14 @@
 ---
 title: "Cara Menerapkan Gaya Hidup Frugal Living untuk Pemula: Panduan Lengkap"
-date: "2026-07-16"
-author: "Admin"
-featured_image: ""
+date: 2026-07-16
+author: Admin
+featured_image: /images/uploads/panduan-pemula-hidup-frugal-lengkap-2026.jpg
+description: Pelajari cara menerapkan gaya hidup frugal living untuk pemula.
+  Panduan lengkap dengan tips hemat, bedakan kebutuhan vs keinginan, dan tabel
+  perbandingan.
 tags:
-  - "frugal living"
-  - "gaya hidup hemat"
-description: "Pelajari cara menerapkan gaya hidup frugal living untuk pemula. Panduan lengkap dengan tips hemat, bedakan kebutuhan vs keinginan, dan tabel perbandingan."
+  - frugal living
+  - gaya hidup hemat
 ---
 
 Frugal living adalah gaya hidup hemat yang fokus pada pengeluaran bijak untuk mencapai kebebasan finansial. Bagi pemula, kuncinya adalah membedakan kebutuhan dan keinginan, membuat anggaran, serta menghindari FOMO. Dengan menerapkan prinsip ini, Anda bisa menabung lebih banyak tanpa merasa kekurangan.
