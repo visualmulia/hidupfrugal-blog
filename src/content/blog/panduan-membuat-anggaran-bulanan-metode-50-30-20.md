@@ -1,12 +1,14 @@
 ---
-title: "Panduan Membuat Anggaran Bulanan dengan Metode 50 30 20 untuk Hidup Frugal"
-date: "2026-08-06"
-author: "Admin"
-featured_image: ""
+title: Panduan Membuat Anggaran Bulanan dengan Metode 50 30 20 untuk Hidup Frugal
+date: 2026-08-06
+author: Admin
+featured_image: /images/uploads/panduan-mengelola-gaji-dengan-aman.jpg
+description: Pelajari cara membuat anggaran bulanan dengan metode 50 30 20 yang
+  sederhana dan efektif. Panduan lengkap, contoh perhitungan, dan tips frugal
+  living.
 tags:
-  - "anggaran bulanan"
-  - "metode 50 30 20"
-description: "Pelajari cara membuat anggaran bulanan dengan metode 50 30 20 yang sederhana dan efektif. Panduan lengkap, contoh perhitungan, dan tips frugal living."
+  - anggaran bulanan
+  - metode 50 30 20
 ---
 
 Metode 50 30 20 adalah cara sederhana untuk membagi pendapatan bulanan menjadi tiga bagian: 50% untuk kebutuhan, 30% untuk keinginan, dan 20% untuk tabungan atau pembayaran utang. Dengan menerapkan metode ini, Anda dapat mengelola keuangan dengan lebih terstruktur, menghindari pengeluaran berlebihan, dan tetap bisa menabung untuk masa depan. Artikel ini akan membahas secara mendalam cara membuat anggaran bulanan menggunakan metode 50 30 20, termasuk contoh perhitungan, tips sukses, dan perbandingannya dengan metode budgeting lain.
