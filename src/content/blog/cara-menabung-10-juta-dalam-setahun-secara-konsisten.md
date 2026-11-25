@@ -15,7 +15,7 @@ Menabung 10 juta dalam setahun mungkin terdengar sulit, tetapi sebenarnya sangat
 
 ## Mengapa Menabung 10 Juta dalam Setahun Itu Penting?
 
-Memiliki tabungan 10 juta dalam setahun memberikan banyak manfaat, seperti dana darurat, modal investasi, atau persiapan liburan. Dengan menabung secara konsisten, Anda membangun kebiasaan finansial yang sehat dan mengurangi stres keuangan. Selain itu, mencapai target ini meningkatkan rasa percaya diri dan memberikan rasa aman di masa depan.
+Memiliki tabungan 10 juta dalam setahun memberikan banyak manfaat, seperti dana darurat, modal usaha, atau persiapan liburan. Selain disimpan di rekening bank konvensional, uang tabungan yang terkumpul juga bisa Anda kembangkan melalui [rekomendasi investasi reksadana modal kecil untuk pemula](/blog/rekomendasi-investasi-reksadana-modal-kecil-untuk-pemula) agar nilainya terlindungi dari gerusan inflasi. Dengan menabung secara konsisten, Anda membangun kebiasaan finansial yang sehat dan mengurangi stres keuangan. Selain itu, mencapai target ini meningkatkan rasa percaya diri dan memberikan rasa aman di masa depan.
 
 ## Strategi Dasar: Hitung Kebutuhan Harian, Mingguan, atau Bulanan
 
@@ -37,7 +37,7 @@ Tentukan alasan Anda menabung, misalnya untuk dana darurat, pendidikan, atau lib
 
 ### 2. Buat Anggaran Bulanan yang Realistis
 
-Analisis pengeluaran Anda selama sebulan terakhir. Catat semua pemasukan dan pengeluaran. Gunakan metode budgeting 50/30/20, di mana 50% untuk kebutuhan, 30% untuk keinginan, dan 20% untuk tabungan. Jika ingin menabung lebih agresif, Anda bisa menyesuaikan persentasenya.
+Analisis pengeluaran Anda selama sebulan terakhir. Catat semua pemasukan dan pengeluaran. Anda bisa menggunakan [panduan membuat anggaran bulanan metode 50 30 20](/blog/panduan-membuat-anggaran-bulanan-metode-50-30-20), di mana 50% untuk kebutuhan, 30% untuk keinginan, dan 20% untuk tabungan. Jika ingin menabung lebih agresif, Anda bisa menyesuaikan persentasenya.
 
 ### 3. Pisahkan Rekening Khusus Tabungan
 

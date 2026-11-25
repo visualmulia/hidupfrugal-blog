@@ -25,7 +25,7 @@ description: "Tips belanja hemat di supermarket dengan menghindari 7 jebakan pro
 
 **Jebakan:** Promo B2G1 sering membuat kita membeli lebih banyak dari yang diperlukan, terutama untuk produk yang cepat kedaluwarsa. Akhirnya, barang terbuang sia-sia.
 
-**Solusi:** Hitung kebutuhan riil. Jika Anda hanya butuh satu, lebih baik beli satu dengan harga normal daripada membeli dua dan membuang satu. Untuk produk tahan lama, promo ini bisa menguntungkan asalkan Anda yakin akan menghabiskannya.
+**Solusi:** Hitung kebutuhan riil. Jika Anda hanya butuh satu, lebih baik beli satu dengan harga normal daripada membeli dua dan membuang satu. Untuk produk bahan pangan basah, pastikan Anda juga menguasai manajemen stok seperti pada panduan [cara menghemat uang belanja bulanan tanpa kelaparan](/blog/cara-menghemat-uang-belanja-bulanan-tanpa-kelaparan) agar bahan tidak membusuk sia-sia. Untuk produk tahan lama, promo ini bisa menguntungkan asalkan Anda yakin akan menghabiskannya.
 
 ### 3. Harga Coret yang Menyesatkan
 
@@ -73,7 +73,7 @@ description: "Tips belanja hemat di supermarket dengan menghindari 7 jebakan pro
 
 ### Buat Daftar Belanja dan Patuhi
 
-**Daftar belanja adalah kunci utama.** Riset menunjukkan bahwa orang yang berbelanja dengan daftar menghabiskan 20-30% lebih sedikit uang. Buat daftar berdasarkan stok di rumah, bukan berdasarkan promo yang dilihat.
+**Daftar belanja adalah kunci utama.** Riset menunjukkan bahwa orang yang berbelanja dengan daftar menghabiskan 20-30% lebih sedikit uang. Anda bisa mengombinasikannya dengan [10 tips belanja hemat bulanan](/blog/tips-hemat-belanja-bulanan) agar pengeluaran rumah tangga tetap terkendali. Buat daftar berdasarkan stok di rumah, bukan berdasarkan promo yang dilihat.
 
 ### Cek Katalog Promo Sebelum Pergi
 

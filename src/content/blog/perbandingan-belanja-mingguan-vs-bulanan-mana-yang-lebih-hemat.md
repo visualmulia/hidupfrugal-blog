@@ -23,7 +23,7 @@ Belanja mingguan seringkali lebih hemat karena Anda membeli barang dalam jumlah 
 
 ### Mengapa Belanja Bulanan Bisa Lebih Hemat?
 
-Di sisi lain, belanja bulanan menawarkan penghematan dari sisi harga grosir dan biaya transportasi. OCBC Indonesia menyebutkan bahwa membeli barang dalam jumlah besar sekaligus membuat harga lebih murah. HappyFresh juga menambahkan bahwa belanja bulanan mengurangi biaya transportasi dibandingkan belanja mingguan. Selain itu, belanja bulanan membantu Anda mengontrol pengeluaran karena dilakukan sekali dengan daftar yang terencana.
+Di sisi lain, belanja bulanan menawarkan penghematan dari sisi harga grosir dan biaya transportasi. OCBC Indonesia menyebutkan bahwa membeli barang dalam jumlah besar sekaligus membuat harga lebih murah. HappyFresh juga menambahkan bahwa belanja bulanan mengurangi biaya transportasi dibandingkan belanja mingguan. Anda juga bisa menerapkan prinsip dalam [10 tips belanja hemat bulanan](/blog/tips-hemat-belanja-bulanan) agar pengeluaran terkontrol. Selain itu, belanja bulanan membantu Anda mengontrol pengeluaran karena dilakukan sekali dengan daftar yang terencana.
 
 ## Perbandingan Belanja Mingguan vs Bulanan
 
@@ -64,7 +64,7 @@ Menggabungkan belanja bulanan dan mingguan adalah strategi paling hemat. Lakukan
 
 ### Tips Belanja Hemat
 
-- **Buat daftar belanja** berdasarkan menu mingguan atau bulanan.
+- **Buat daftar belanja** berdasarkan perencanaan menu masak harian, misalnya menyontek ide [daftar menu masakan seminggu hemat 100 ribu untuk keluarga](/blog/daftar-menu-masakan-seminggu-hemat-100-ribu-untuk-keluarga).
 - **Bandingkan harga** di beberapa toko atau platform online.
 - **Manfaatkan diskon dan promo** untuk barang tahan lama.
 - **Simpan struk belanja** untuk evaluasi pengeluaran.

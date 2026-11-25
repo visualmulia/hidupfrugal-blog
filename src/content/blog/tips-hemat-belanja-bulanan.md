@@ -26,7 +26,7 @@ Daftar belanja adalah senjata utama untuk menghindari impulsive buying. Catat se
 
 **Jawaban singkat:** Rencanakan menu masakan untuk seminggu atau sebulan agar belanja lebih terarah.
 
-Dengan merencanakan menu, Anda tahu persis bahan apa yang harus dibeli. Ini juga membantu mengurangi sisa makanan yang terbuang. Misalnya, jika Anda merencanakan menu sop ayam, tumis kangkung, dan ikan goreng, maka bahan yang dibeli sesuai porsi. Anda bisa membuat jadwal menu bergilir agar tidak bosan.
+Dengan merencanakan menu, Anda tahu persis bahan apa yang harus dibeli. Ini juga membantu mengurangi sisa makanan yang terbuang. Bila Anda masih bimbang menentukan periode belanja terbaik, simak analisis mendalam pada [perbandingan belanja mingguan vs bulanan mana yang lebih hemat](/blog/perbandingan-belanja-mingguan-vs-bulanan-mana-yang-lebih-hemat). Misalnya, jika Anda merencanakan menu sop ayam, tumis kangkung, dan ikan goreng, maka bahan yang dibeli sesuai porsi. Anda bisa membuat jadwal menu bergilir agar tidak bosan.
 
 ## 3. Bandingkan Harga di Beberapa Toko
 
@@ -47,7 +47,7 @@ Dengan tabel ini, Anda bisa memutuskan membeli beras di pasar, minyak di toko on
 
 **Jawaban singkat:** Pantau promo, gunakan kartu anggota, dan beli saat diskon besar.
 
-Banyak toko memberikan diskon di hari-hari tertentu, seperti "Hari Belanja Nasional" atau "Promo Akhir Pekan". Daftarlah sebagai anggota untuk mendapatkan kupon diskon. Namun, tetap selektif: jangan membeli barang hanya karena diskon jika tidak dibutuhkan. Diskon baru bermanfaat jika barang tersebut memang ada dalam daftar belanja Anda.
+Banyak toko memberikan diskon di hari-hari tertentu, seperti "Hari Belanja Nasional" atau "Promo Akhir Pekan". Daftarlah sebagai anggota untuk mendapatkan kupon diskon. Namun, tetap selektif: jangan sampai terkecoh oleh trik diskon semu sebagaimana dibahas dalam [tips belanja hemat di supermarket hindari 7 jebakan promo](/blog/tips-belanja-hemat-di-supermarket-hindari-7-jebakan-promo). Diskon baru bermanfaat jika barang tersebut memang ada dalam daftar belanja Anda.
 
 ## 5. Beli Barang dalam Jumlah Besar (Bulk Buying)
 

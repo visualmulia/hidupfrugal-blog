@@ -11,7 +11,7 @@ description: "Panduan lengkap belanja bulanan hemat untuk anak kos dengan modal 
 
 ## Pendahuluan
 
-Menjalani hidup sebagai anak kos sering kali identik dengan pengeluaran terbatas. Dengan uang bulanan yang pas-pasan, ditambah kebutuhan kuliah dan hiburan, mengatur belanja bulanan menjadi tantangan tersendiri. Namun, bukan berarti tidak mungkin, kok. Dengan perencanaan yang matang, Anda bisa belanja bulanan hemat untuk anak kos modal 250 ribu. Bahkan, dengan strategi yang tepat, kebutuhan pokok selama sebulan bisa terpenuhi tanpa harus kelaparan.
+Menjalani hidup sebagai anak kos sering kali identik dengan pengeluaran terbatas. Dengan uang bulanan yang pas-pasan, ditambah kebutuhan kuliah dan hiburan, mengatur belanja bulanan menjadi tantangan tersendiri. Namun, bukan berarti tidak mungkin, kok. Bagi yang baru mulai bekerja atau magang, trik ini juga sangat relevan dipadukan dengan [cara mengatur gaji 3 juta untuk belanja bulanan dan tabungan](/blog/cara-mengatur-gaji-3-juta-untuk-belanja-bulanan-dan-tabungan). Dengan perencanaan yang matang, Anda bisa belanja bulanan hemat untuk anak kos modal 250 ribu. Bahkan, dengan strategi yang tepat, kebutuhan pokok selama sebulan bisa terpenuhi tanpa harus kelaparan.
 
 Artikel ini akan membahas secara mendalam cara belanja bulanan hemat untuk anak kos dengan modal 250 ribu. Mulai dari menyusun daftar belanja, memilih tempat belanja, hingga tips menghemat pengeluaran. Simak sampai habis, ya!
 
@@ -54,7 +54,7 @@ Harga di pasar tradisional biasanya lebih murah dibandingkan supermarket, teruta
 
 ### 6. Masak Sendiri
 
-Memasak sendiri adalah kunci hemat. Dengan memasak, Anda bisa mengontrol porsi dan bahan, serta menghemat uang dibandingkan membeli makanan jadi. Manfaatkan rice cooker atau peralatan masak sederhana untuk membuat menu sehari-hari. Anda bisa memasak dalam porsi besar untuk beberapa hari.
+Memasak sendiri adalah kunci hemat. Dengan memasak, Anda bisa mengontrol porsi dan bahan, serta menghemat uang dibandingkan membeli makanan jadi. Manfaatkan rice cooker atau peralatan masak sederhana untuk membuat menu sehari-hari. Anda bisa menyontek inspirasi resep terjangkau pada [daftar menu masakan seminggu hemat 100 ribu untuk keluarga](/blog/daftar-menu-masakan-seminggu-hemat-100-ribu-untuk-keluarga) yang juga sangat cocok dipraktikkan anak kos.
 
 ## Perbandingan Tempat Belanja untuk Anak Kos
 

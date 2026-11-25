@@ -17,7 +17,7 @@ Tanpa rencana, belanja bulanan cenderung impulsif dan boros. Dengan membuat daft
 
 ### Buat Daftar Belanja Berdasarkan Menu
 
-Mulailah dengan merencanakan menu makan selama seminggu. Catat bahan-bahan yang diperlukan, lalu periksa stok di dapur. Buat daftar belanja hanya untuk item yang habis. Cara ini efektif mengurangi pembelian ganda dan memastikan semua bahan terpakai.
+Mulailah dengan merencanakan menu makan selama seminggu. Sebagai inspirasi komposisi nutrisi dan estimasi biaya, Anda bisa meniru [daftar menu masakan seminggu hemat 100 ribu untuk keluarga](/blog/daftar-menu-masakan-seminggu-hemat-100-ribu-untuk-keluarga). Catat bahan-bahan yang diperlukan, lalu periksa stok di dapur. Buat daftar belanja hanya untuk item yang habis. Cara ini efektif mengurangi pembelian ganda dan memastikan semua bahan terpakai.
 
 ### Manfaatkan Aplikasi Catatan Belanja
 
@@ -57,7 +57,7 @@ Memasak sendiri bisa menghemat hingga 50% dibandingkan membeli makanan jadi. Sel
 
 ### 2. Batch Cooking dan Freezing
 
-Luangkan waktu di akhir pekan untuk memasak dalam jumlah besar. Simpan dalam porsi sekali makan di freezer. Ini menghemat waktu dan energi, serta mengurangi godaan membeli makanan instan.
+Luangkan waktu di akhir pekan untuk memasak dalam jumlah besar. Simpan dalam porsi sekali makan di freezer. Ini menghemat waktu dan energi gas/listrik dapur, yang juga berkontribusi pada [cara menghemat tagihan listrik bulanan rumah tangga](/blog/cara-menghemat-tagihan-listrik-bulanan-rumah-tangga), serta mengurangi godaan membeli makanan instan di luar.
 
 ### 3. Gunakan Bahan Sisa
 

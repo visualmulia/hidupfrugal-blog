@@ -38,6 +38,8 @@ Contoh: Jika gaji bersih Rp4.000.000, maka:
 - Keinginan: Rp1.200.000
 - Tabungan/investasi: Rp800.000
 
+Bagi Anda yang memiliki nominal gaji di kisaran 3 jutaan, Anda juga dapat menerapkan simulasi rinci pada [cara mengatur gaji 3 juta untuk belanja bulanan dan tabungan](/blog/cara-mengatur-gaji-3-juta-untuk-belanja-bulanan-dan-tabungan).
+
 ## Strategi Menghemat Pengeluaran
 
 ### 1. Masak Sendiri dan Bawa Bekal
@@ -58,7 +60,7 @@ Bandingkan harga sebelum membeli, manfaatkan diskon, dan hindari impulse buying.
 
 ## Membangun Dana Darurat
 
-Dana darurat sangat penting untuk menghadapi situasi tak terduga seperti kehilangan pekerjaan atau biaya medis. Idealnya, dana darurat setara 3-6 bulan pengeluaran bulanan. Mulailah menabung sedikit demi sedikit, misalnya Rp50.000 per minggu.
+Dana darurat sangat penting untuk menghadapi situasi tak terduga seperti kehilangan pekerjaan atau biaya medis. Idealnya, dana darurat setara 3-6 bulan pengeluaran bulanan. Mulailah menabung sedikit demi sedikit, misalnya Rp50.000 per minggu. Bila konsisten, strategi disiplin ini terbukti ampuh mencapai target tabungan besar sebagaimana diuraikan dalam [cara menabung 10 juta dalam setahun secara konsisten](/blog/cara-menabung-10-juta-dalam-setahun-secara-konsisten).
 
 ## Investasi untuk Masa Depan
 

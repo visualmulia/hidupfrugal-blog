@@ -15,7 +15,7 @@ tags:
 
 Reksadana adalah pilihan investasi yang tepat bagi pemula karena modalnya sangat terjangkau, mulai dari Rp10.000, dan dikelola oleh manajer investasi profesional. Dengan reksadana, Anda tidak perlu memiliki pengetahuan mendalam tentang pasar modal untuk mulai berinvestasi. Selain itu, reksadana menawarkan diversifikasi otomatis, sehingga risiko dapat diminimalkan.
 
-Bagi Anda yang memiliki penghasilan terbatas, reksadana memungkinkan investasi rutin dengan nominal kecil. Anda bisa menyisihkan sebagian kecil dari pendapatan setiap bulan untuk diinvestasikan. Dalam jangka panjang, kebiasaan ini akan membantu membangun portofolio yang sehat.
+Bagi Anda yang sedang mempraktikkan [panduan cara menerapkan gaya hidup frugal living untuk pemula](/blog/cara-menerapkan-gaya-hidup-frugal-living-untuk-pemula), reksadana adalah instrumen pelengkap sempurna agar hasil penghematan Anda bertumbuh optimal. Bagi Anda yang memiliki penghasilan terbatas, reksadana memungkinkan investasi rutin dengan nominal kecil. Anda bisa menyisihkan sebagian kecil dari pendapatan setiap bulan untuk diinvestasikan. Dalam jangka panjang, kebiasaan ini akan membantu membangun portofolio yang sehat.
 
 ## Jenis-Jenis Reksadana dan Risikonya
 
@@ -74,7 +74,7 @@ Berikut beberapa rekomendasi reksadana yang cocok untuk pemula dengan modal keci
 3. **Perhatikan Kinerja dan Reputasi Manajer Investasi**: Pilih manajer investasi yang memiliki track record baik dan diawasi OJK.
 4. **Mulai dari Nominal Kecil**: Tidak perlu langsung besar. Mulailah dengan Rp10.000 untuk membiasakan diri.
 5. **Lakukan Diversifikasi**: Sebar investasi ke beberapa jenis reksadana untuk mengurangi risiko.
-6. **Investasi Rutin (Dollar-Cost Averaging)**: Lakukan investasi secara berkala, misalnya setiap bulan, untuk meratakan harga perolehan.
+6. **Investasi Rutin (Dollar-Cost Averaging)**: Lakukan investasi secara berkala, misalnya setiap bulan, untuk meratakan harga perolehan. Metode disiplin ini sangat selaras bila Anda tengah menjalankan target [cara menabung 10 juta dalam setahun secara konsisten](/blog/cara-menabung-10-juta-dalam-setahun-secara-konsisten).
 7. **Gunakan Platform Terpercaya**: Pilih aplikasi investasi yang terdaftar dan diawasi OJK seperti Bareksa, Ajaib, atau platform bank.
 
 ## Cara Memulai Investasi Reksadana Modal Kecil

@@ -59,7 +59,7 @@ Bandingkan pengeluaran aktual dengan alokasi. Jika kebutuhan melebihi 50%, cari 
 
 ## Contoh Perhitungan Anggaran 50 30 20
 
-Misalkan pendapatan bersih Anda adalah Rp5.000.000 per bulan. Maka alokasinya:
+Misalkan pendapatan bersih Anda adalah Rp5.000.000 per bulan. Bagi Anda dengan nominal gaji berbeda, Anda juga bisa melihat simulasi praktis [cara mengatur gaji 3 juta untuk belanja bulanan dan tabungan](/blog/cara-mengatur-gaji-3-juta-untuk-belanja-bulanan-dan-tabungan). Untuk simulasi standar Rp5 juta, maka alokasinya:
 
 - **Kebutuhan (50%)**: Rp2.500.000
   - Sewa kos: Rp1.200.000
@@ -76,7 +76,7 @@ Misalkan pendapatan bersih Anda adalah Rp5.000.000 per bulan. Maka alokasinya:
   - Investasi reksadana: Rp300.000
   - Cicilan kartu kredit: Rp200.000
 
-Dengan contoh di atas, Anda bisa melihat bagaimana setiap kategori dibatasi. Jika ada sisa di kategori keinginan, Anda bisa menabungkannya atau menambah porsi investasi.
+Dengan contoh di atas, Anda bisa melihat bagaimana setiap kategori dibatasi. Disiplin menyisihkan porsi 20% ini secara otomatis akan memuluskan target finansial Anda, seperti pada strategi [cara menabung 10 juta dalam setahun secara konsisten](/blog/cara-menabung-10-juta-dalam-setahun-secara-konsisten). Jika ada sisa di kategori keinginan, Anda bisa menabungkannya atau menambah porsi investasi.
 
 ## Tips Sukses Menerapkan Metode 50 30 20
 

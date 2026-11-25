@@ -16,11 +16,11 @@ tags:
 
 **Daftar menu masakan seminggu hemat 100 ribu untuk keluarga** sangat mungkin dilakukan asalkan Anda cermat memilih bahan dan mengolahnya dengan kreatif. Kuncinya adalah perencanaan matang, memanfaatkan bahan lokal yang murah, serta mengombinasikan protein hewani dan nabati secara proporsional. Dengan anggaran Rp100.000, Anda bisa menyajikan hidangan bergizi untuk 4 orang selama 7 hari, bahkan lebih.
 
-Banyak keluarga menganggap makan sehat identik dengan biaya mahal. Padahal, dengan strategi belanja yang tepat, Anda bisa menekan pengeluaran tanpa mengorbankan rasa dan nutrisi. Artikel ini akan memandu Anda menyusun menu mingguan, daftar belanja, serta tips mengolah agar tidak bosan.
+Banyak keluarga menganggap makan sehat identik dengan biaya mahal. Padahal, dengan strategi belanja yang tepat seperti pada [cara menghemat uang belanja bulanan tanpa kelaparan](/blog/cara-menghemat-uang-belanja-bulanan-tanpa-kelaparan), Anda bisa menekan pengeluaran dapur tanpa mengorbankan rasa dan nutrisi. Artikel ini akan memandu Anda menyusun menu mingguan, daftar belanja, serta tips mengolah agar tidak bosan.
 
 ## Strategi Belanja Cerdas untuk Anggaran Rp100.000
 
-**Untuk mendapatkan bahan makanan senilai Rp100.000 yang cukup untuk seminggu, prioritaskan sumber protein nabati seperti tempe dan tahu, lalu tambahkan protein hewani dalam jumlah terbatas.** Belanja di pasar tradisional atau pedagang grosir juga lebih murah dibandingkan supermarket.
+**Untuk mendapatkan bahan makanan senilai Rp100.000 yang cukup untuk seminggu, prioritaskan sumber protein nabati seperti tempe dan tahu, lalu tambahkan protein hewani dalam jumlah terbatas.** Konsep belanja bahan segar per minggu ini juga sejalan dengan evaluasi [perbandingan belanja mingguan vs bulanan mana yang lebih hemat](/blog/perbandingan-belanja-mingguan-vs-bulanan-mana-yang-lebih-hemat). Belanja di pasar tradisional atau pedagang grosir juga jauh lebih murah dibandingkan supermarket.
 
 ### Alokasi Anggaran yang Disarankan
 - **Protein hewani (ayam, ikan, telur):** Rp40.000

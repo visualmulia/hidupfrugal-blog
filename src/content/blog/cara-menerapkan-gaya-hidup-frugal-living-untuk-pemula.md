@@ -15,7 +15,7 @@ Frugal living adalah gaya hidup hemat yang fokus pada pengeluaran bijak untuk me
 
 ## Apa Itu Frugal Living?
 
-Frugal living bukanlah pelit, melainkan strategi mengelola uang dengan cerdas. Tujuannya adalah memaksimalkan nilai setiap rupiah yang dikeluarkan, sehingga Anda bisa mencapai tujuan finansial jangka panjang seperti dana darurat, investasi, atau pensiun.
+Frugal living bukanlah pelit, melainkan strategi mengelola uang dengan cerdas dan penuh kesadaran. Konsep ini sejalan erat dengan prinsip [menerapkan gaya hidup minimalis untuk hemat uang](/blog/cara-menerapkan-gaya-hidup-minimalis-untuk-hemat-uang), di mana Anda mengeliminasi barang atau kebiasaan konsumtif yang tidak memberi nilai tambah. Tujuannya adalah memaksimalkan nilai setiap rupiah yang dikeluarkan, sehingga Anda bisa mencapai tujuan finansial jangka panjang seperti dana darurat, investasi, atau pensiun.
 
 ## Cara Menerapkan Frugal Living untuk Pemula
 
@@ -25,7 +25,7 @@ Langkah pertama adalah memisahkan antara kebutuhan (hal yang esensial untuk hidu
 
 ### 2. Buat Anggaran Bulanan
 
-Catat semua pemasukan dan pengeluaran. Alokasikan dana untuk pos-pos penting seperti tabungan, tagihan, dan kebutuhan pokok. Gunakan metode 50/30/20: 50% untuk kebutuhan, 30% untuk keinginan, dan 20% untuk tabungan/investasi. Sesuaikan persentase sesuai kondisi Anda.
+Catat semua pemasukan dan pengeluaran. Alokasikan dana untuk pos-pos penting seperti tabungan, tagihan, dan kebutuhan pokok. Anda bisa menyimak [panduan membuat anggaran bulanan metode 50 30 20](/blog/panduan-membuat-anggaran-bulanan-metode-50-30-20): 50% untuk kebutuhan, 30% untuk keinginan, dan 20% untuk tabungan/investasi. Sesuaikan persentase sesuai kondisi Anda.
 
 ### 3. Terapkan Aturan 30 Hari
 

@@ -11,11 +11,11 @@ description: "Panduan lengkap cara mengatur gaji 3 juta untuk belanja bulanan da
 
 ## Pendahuluan
 
-Mengatur gaji 3 juta untuk belanja bulanan dan tabungan memang menantang, tetapi bukan tidak mungkin. Kuncinya adalah disiplin, perencanaan yang matang, dan strategi alokasi yang tepat. Artikel ini akan memandu Anda langkah demi langkah mengelola penghasilan 3 juta agar kebutuhan terpenuhi dan tabungan tetap berjalan.
+Mengatur gaji 3 juta untuk belanja bulanan dan tabungan memang menantang, tetapi bukan tidak mungkin. Kuncinya adalah disiplin, perencanaan yang matang, dan strategi alokasi yang tepat. Bila Anda sudah berkeluarga, panduan ini juga sangat cocok dipadukan dengan [tips mengatur keuangan rumah tangga dengan gaji UMR](/blog/tips-mengatur-keuangan-rumah-tangga-dengan-gaji-umr) agar pos kebutuhan rumah tangga tetap aman. Artikel ini akan memandu Anda langkah demi langkah mengelola penghasilan 3 juta agar kebutuhan terpenuhi dan tabungan tetap berjalan.
 
 ## Strategi Alokasi Gaji 3 Juta dengan Metode 50/30/20
 
-**Jawaban singkat:** Metode 50/30/20 adalah cara paling efektif untuk mengatur gaji 3 juta. Alokasikan 50% untuk kebutuhan pokok (Rp1,5 juta), 30% untuk keinginan (Rp900 ribu), dan 20% untuk tabungan (Rp600 ribu).
+**Jawaban singkat:** Metode 50/30/20 adalah cara paling efektif untuk mengatur gaji 3 juta. Anda bisa mempelajari rumus dasarnya melalui [panduan membuat anggaran bulanan metode 50 30 20](/blog/panduan-membuat-anggaran-bulanan-metode-50-30-20). Alokasikan 50% untuk kebutuhan pokok (Rp1,5 juta), 30% untuk keinginan (Rp900 ribu), dan 20% untuk tabungan (Rp600 ribu).
 
 Metode ini membagi penghasilan menjadi tiga pos utama yang proporsional. Untuk gaji 3 juta, perhitungannya sebagai berikut:
 
@@ -44,7 +44,7 @@ Berikut langkah praktis yang bisa Anda terapkan:
 
 Belanja bulanan sering menjadi pos terbesar. Berikut cara menekannya:
 
-- **Buat Daftar Belanja:** Tentukan kebutuhan pokok seperti beras, minyak, telur, sayur, dan lauk pauk untuk sebulan. Belanja sesuai daftar untuk menghindari pembelian impulsif.
+- **Buat Daftar Belanja:** Tentukan kebutuhan pokok seperti beras, minyak, telur, sayur, dan lauk pauk untuk sebulan. Jika Anda seorang perantau, Anda bisa menyontek rincian [cara belanja bulanan hemat untuk anak kos modal 250 ribu](/blog/cara-belanja-bulanan-hemat-untuk-anak-kos-modal-250-ribu). Belanja sesuai daftar untuk menghindari pembelian impulsif.
 - **Bandingkan Harga:** Belanja di pasar tradisional atau grosir bisa lebih murah daripada supermarket. Manfaatkan aplikasi pembanding harga.
 - **Masak Sendiri:** Membawa bekal dan memasak di rumah jauh lebih hemat daripada membeli makanan jadi. Sisihkan waktu untuk meal prep.
 - **Gunakan Kupon dan Cashback:** Manfaatkan promo dari aplikasi belanja atau kartu debit yang memberikan cashback untuk kebutuhan pokok.

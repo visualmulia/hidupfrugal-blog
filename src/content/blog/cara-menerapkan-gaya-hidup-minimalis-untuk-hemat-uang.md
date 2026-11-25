@@ -29,7 +29,7 @@ Minimalisme bukan berarti pelit atau hidup susah, melainkan hidup dengan sengaja
 
 Sumber: Alodokter dan CIMB Niaga (diolah).
 
-Dari tabel di atas, terlihat bahwa kedua konsep saling melengkapi. Anda bisa menggabungkan keduanya: terapkan minimalisme dalam kepemilikan barang dan frugal living dalam pengelolaan uang sehari-hari.
+Dari tabel di atas, terlihat bahwa kedua konsep saling melengkapi. Anda bisa menggabungkan keduanya: terapkan minimalisme dalam kepemilikan barang dan pelajari [panduan cara menerapkan gaya hidup frugal living untuk pemula](/blog/cara-menerapkan-gaya-hidup-frugal-living-untuk-pemula) dalam pengelolaan uang sehari-hari.
 
 ## Langkah-Langkah Menerapkan Gaya Hidup Minimalis untuk Hemat Uang
 
@@ -53,7 +53,7 @@ Salah satu teknik minimalis yang efektif adalah menunda pembelian barang non-ese
 
 ### 5. Cari Alternatif Hemat atau Gratis
 
-Untuk memenuhi kebutuhan hiburan atau gaya hidup, carilah alternatif yang lebih terjangkau. Misalnya, memanfaatkan promo, membeli barang bekas berkualitas, atau memilih aktivitas sederhana seperti olahraga di rumah dan rekreasi di ruang terbuka. Alodokter menyarankan untuk mencari alternatif hemat atau gratis agar frugal living terasa lebih ringan. Dengan minimalisme, Anda belajar menikmati pengalaman而非 materi, seperti berkumpul dengan teman atau mengeksplorasi alam.
+Untuk memenuhi kebutuhan hiburan atau gaya hidup, carilah alternatif yang lebih terjangkau. Begitu pula saat memenuhi kebutuhan pokok rumah tangga, Anda bisa mempraktikkan [tips belanja hemat bulanan](/blog/tips-hemat-belanja-bulanan) agar pengeluaran dapur tetap terkendali. Alodokter menyarankan untuk mencari alternatif hemat atau gratis agar frugal living terasa lebih ringan. Dengan minimalisme, Anda belajar menikmati pengalaman daripada materi, seperti berkumpul dengan keluarga atau mengeksplorasi ruang terbuka publik.
 
 ### 6. Kurangi Penggunaan Utang Konsumtif
 
