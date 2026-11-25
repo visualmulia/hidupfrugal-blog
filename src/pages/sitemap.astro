@@ -1,0 +1,577 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+// Fetch all blog posts
+const posts = await getCollection('blog');
+
+// Define category taxonomies and match posts
+const categories = [
+	{
+		id: 'filosofi-mindset',
+		title: 'Filosofi & Mindset Frugal Living',
+		icon: '💡',
+		description: 'Konsep dasar hidup hemat sadar (mindful spending), prinsip minimalisme, dan transformasi mental finansial yang sehat.',
+		slugs: [
+			'cara-menerapkan-gaya-hidup-frugal-living-untuk-pemula',
+			'cara-menerapkan-gaya-hidup-minimalis-untuk-hemat-uang',
+		]
+	},
+	{
+		id: 'budgeting-gaji',
+		title: 'Budgeting & Pengelolaan Gaji',
+		icon: '📊',
+		description: 'Panduan membagi gaji bulanan metode 50/30/20, strategi atur gaji UMR, target tabungan 10 juta, dan investasi reksadana pemula.',
+		slugs: [
+			'panduan-membuat-anggaran-bulanan-metode-50-30-20',
+			'cara-mengatur-gaji-3-juta-untuk-belanja-bulanan-dan-tabungan',
+			'tips-mengatur-keuangan-rumah-tangga-dengan-gaji-umr',
+			'cara-menabung-10-juta-dalam-setahun-secara-konsisten',
+			'rekomendasi-investasi-reksadana-modal-kecil-untuk-pemula',
+		]
+	},
+	{
+		id: 'belanja-cerdas',
+		title: 'Strategi Belanja Cerdas & Anti Boncos',
+		icon: '🛒',
+		description: 'Trik menghindari jebakan promo supermarket, perbandingan belanja mingguan vs bulanan, dan tips belanja anak kos.',
+		slugs: [
+			'tips-hemat-belanja-bulanan',
+			'tips-belanja-hemat-di-supermarket-hindari-7-jebakan-promo',
+			'perbandingan-belanja-mingguan-vs-bulanan-mana-yang-lebih-hemat',
+			'cara-belanja-bulanan-hemat-untuk-anak-kos-modal-250-ribu',
+		]
+	},
+	{
+		id: 'hemat-rumah-tangga',
+		title: 'Efisiensi Rumah Tangga & Dapur Hemat',
+		icon: '🍳',
+		description: 'Meal planning seminggu hemat 100 ribu, trik hemat belanja dapur tanpa kelaparan, dan strategi pangkas tagihan listrik.',
+		slugs: [
+			'daftar-menu-masakan-seminggu-hemat-100-ribu-untuk-keluarga',
+			'cara-menghemat-uang-belanja-bulanan-tanpa-kelaparan',
+			'cara-menghemat-tagihan-listrik-bulanan-rumah-tangga',
+		]
+	}
+];
+
+// Helper to get post by slug
+const getPostBySlug = (slug: string) => posts.find((p) => p.slug === slug);
+
+// Format date helper
+const formatDate = (dateStr: string | Date) => {
+	const options: Intl.DateTimeFormatOptions = { year: 'numeric', month: 'short', day: 'numeric' };
+	return new Date(dateStr).toLocaleDateString('id-ID', options);
+};
+---
+
+<Layout 
+	title="Sitemap & Indeks Kategori Keuangan Lengkap - HidupFrugal" 
+	description="Peta situs dan direktori kategori panduan HidupFrugal. Temukan seluruh artikel manajemen keuangan pribadi, gaya hidup frugal, budgeting gaji, dan investasi pemula.">
+	
+	<!-- Hero Section -->
+	<section class="sitemap-hero">
+		<div class="container hero-inner">
+			<span class="badge">DIREKTORI & PETA SITUS</span>
+			<h1>Sitemap & Indeks Kategori</h1>
+			<p class="lead">
+				Jelajahi seluruh panduan gaya hidup hemat (*frugal living*), manajemen anggaran bulanan, strategi belanja cerdas, dan literasi finansial yang tersusun rapi berdasarkan klaster topik.
+			</p>
+			<div class="hero-stats">
+				<div class="stat-item">
+					<span class="stat-number">{posts.length}</span>
+					<span class="stat-label">Panduan Finansial</span>
+				</div>
+				<div class="stat-item">
+					<span class="stat-number">{categories.length}</span>
+					<span class="stat-label">Klaster Kategori</span>
+				</div>
+				<div class="stat-item">
+					<span class="stat-number">100%</span>
+					<span class="stat-label">Akses Gratis</span>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Main Categories Section -->
+	<section class="sitemap-content">
+		<div class="container content-container">
+
+			<!-- Category Quick Jump Navigation -->
+			<div class="quick-nav">
+				<span class="quick-nav-title">Lompat ke Topik:</span>
+				<div class="quick-nav-links">
+					{categories.map((cat) => (
+						<a href={`#${cat.id}`} class="quick-nav-pill">
+							<span class="pill-icon">{cat.icon}</span>
+							<span>{cat.title}</span>
+						</a>
+					))}
+					<a href="#halaman-utama" class="quick-nav-pill">
+						<span class="pill-icon">📄</span>
+						<span>Halaman Utama</span>
+					</a>
+				</div>
+			</div>
+
+			<!-- Categories Group -->
+			<div class="categories-list">
+				{categories.map((cat) => {
+					const categoryPosts = cat.slugs
+						.map((s) => getPostBySlug(s))
+						.filter(Boolean);
+
+					return (
+						<div id={cat.id} class="category-block">
+							<div class="category-header">
+								<div class="category-title-wrap">
+									<span class="category-icon">{cat.icon}</span>
+									<div>
+										<h2 class="category-title">{cat.title}</h2>
+										<p class="category-desc">{cat.description}</p>
+									</div>
+								</div>
+								<span class="category-count">{categoryPosts.length} Panduan</span>
+							</div>
+
+							<div class="articles-grid">
+								{categoryPosts.map((post) => post && (
+									<article class="article-item">
+										<a href={`/blog/${post.slug}`} class="article-link">
+											<div class="article-info">
+												<div class="article-meta">
+													<span class="article-date">{formatDate(post.data.date)}</span>
+													<span class="article-author">• {post.data.author}</span>
+												</div>
+												<h3 class="article-title">{post.data.title}</h3>
+												<p class="article-snippet">
+													{post.data.description || (post.body ? post.body.slice(0, 110) + '...' : '')}
+												</p>
+											</div>
+											<div class="article-arrow">
+												<span>Baca Panduan</span>
+												<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+											</div>
+										</a>
+									</article>
+								))}
+							</div>
+						</div>
+					);
+				})}
+			</div>
+
+			<!-- Static Pages Directory -->
+			<div id="halaman-utama" class="static-pages-block">
+				<div class="category-header">
+					<div class="category-title-wrap">
+						<span class="category-icon">📄</span>
+						<div>
+							<h2 class="category-title">Halaman Informasi & Legalitas Situs</h2>
+							<p class="category-desc">Struktur navigasi utama, standar redaksi keuangan, dan kebijakan kepatuhan Google AdSense.</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="pages-grid">
+					<a href="/" class="page-card">
+						<div class="page-title">Beranda (Home)</div>
+						<div class="page-path">hidupfrugal.web.id/</div>
+						<p class="page-desc">Halaman utama dengan rangkuman artikel terbaru dan inspirasi gaya hidup hemat.</p>
+					</a>
+					<a href="/search" class="page-card">
+						<div class="page-title">Pencarian Artikel</div>
+						<div class="page-path">hidupfrugal.web.id/search</div>
+						<p class="page-desc">Fitur pencarian instan untuk menemukan panduan anggaran atau belanja hemat.</p>
+					</a>
+					<a href="/about" class="page-card">
+						<div class="page-title">Tentang Kami (About)</div>
+						<div class="page-path">hidupfrugal.web.id/about</div>
+						<p class="page-desc">Visi, misi, standar editorial, dan profil tim redaksi keuangan HidupFrugal.</p>
+					</a>
+					<a href="/privacy" class="page-card">
+						<div class="page-title">Kebijakan Privasi (Privacy Policy)</div>
+						<div class="page-path">hidupfrugal.web.id/privacy</div>
+						<p class="page-desc">Informasi pengumpulan data, transparansi privasi, dan kepatuhan cookie Google AdSense.</p>
+					</a>
+					<a href="/terms" class="page-card">
+						<div class="page-title">Syarat & Ketentuan (Terms)</div>
+						<div class="page-path">hidupfrugal.web.id/terms</div>
+						<p class="page-desc">Ketentuan pemanfaatan konten edukasi, hak cipta materi, dan batasan tanggung jawab.</p>
+					</a>
+					<a href="/disclaimer" class="page-card">
+						<div class="page-title">Disclaimer Finansial</div>
+						<div class="page-path">hidupfrugal.web.id/disclaimer</div>
+						<p class="page-desc">Pernyataan keterbukaan informasi: edukasi literasi keuangan dan bukan saran investasi profesional.</p>
+					</a>
+					<a href="/contact" class="page-card">
+						<div class="page-title">Hubungi Kami (Contact)</div>
+						<div class="page-path">hidupfrugal.web.id/contact</div>
+						<p class="page-desc">Saluran komunikasi pembaca dan kontak redaksi resmi HidupFrugal.</p>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</section>
+</Layout>
+
+<style>
+	.sitemap-hero {
+		background: linear-gradient(180deg, #E1F0E7 0%, rgba(249, 249, 248, 0.4) 100%);
+		padding: 4rem 1rem 3.5rem 1rem;
+		text-align: center;
+		border-bottom: 1px solid var(--border-color);
+	}
+
+	.hero-inner {
+		max-width: 800px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1.25rem;
+	}
+
+	.badge {
+		display: inline-block;
+		font-size: 0.8rem;
+		font-weight: 700;
+		letter-spacing: 1.5px;
+		color: var(--accent);
+		background-color: var(--card-bg);
+		padding: 0.35rem 0.85rem;
+		border-radius: 99px;
+		border: 1px solid rgba(15, 81, 50, 0.2);
+	}
+
+	h1 {
+		font-size: 2.8rem;
+		letter-spacing: -1px;
+		color: var(--text-primary);
+		line-height: 1.2;
+		font-family: var(--font-display);
+	}
+
+	.lead {
+		font-size: 1.15rem;
+		color: var(--text-secondary);
+		line-height: 1.7;
+	}
+
+	.hero-stats {
+		display: flex;
+		gap: 2rem;
+		margin-top: 1rem;
+		padding-top: 1.5rem;
+		border-top: 1px dashed var(--border-color);
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+
+	.stat-item {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.stat-number {
+		font-size: 1.8rem;
+		font-weight: 800;
+		color: var(--accent);
+		font-family: var(--font-display);
+	}
+
+	.stat-label {
+		font-size: 0.85rem;
+		color: var(--text-secondary);
+		font-weight: 500;
+	}
+
+	/* Content Section */
+	.sitemap-content {
+		padding: 3rem 1rem 5rem 1rem;
+	}
+
+	.content-container {
+		max-width: 900px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	/* Quick Nav */
+	.quick-nav {
+		background-color: var(--card-bg);
+		padding: 1.25rem 1.5rem;
+		border-radius: 12px;
+		border: 1px solid var(--border-color);
+		box-shadow: var(--shadow-sm);
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+
+	.quick-nav-title {
+		font-size: 0.85rem;
+		font-weight: 700;
+		color: var(--text-secondary);
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+	}
+
+	.quick-nav-links {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	.quick-nav-pill {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--text-primary);
+		background-color: var(--bg-color);
+		padding: 0.4rem 0.85rem;
+		border-radius: 8px;
+		border: 1px solid var(--border-color);
+		text-decoration: none;
+		transition: var(--transition);
+	}
+
+	.quick-nav-pill:hover {
+		background-color: var(--accent-light);
+		color: var(--accent);
+		border-color: var(--accent);
+		transform: translateY(-1px);
+	}
+
+	/* Category Blocks */
+	.categories-list {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.category-block {
+		background-color: var(--card-bg);
+		border: 1px solid var(--border-color);
+		border-radius: 16px;
+		padding: 2rem;
+		box-shadow: var(--shadow-sm);
+		scroll-margin-top: 5rem;
+	}
+
+	.category-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		gap: 1rem;
+		margin-bottom: 1.5rem;
+		padding-bottom: 1.25rem;
+		border-bottom: 1px solid var(--border-color);
+		flex-wrap: wrap;
+	}
+
+	.category-title-wrap {
+		display: flex;
+		gap: 1rem;
+		align-items: flex-start;
+	}
+
+	.category-icon {
+		font-size: 2rem;
+		line-height: 1;
+		background-color: var(--accent-light);
+		padding: 0.5rem;
+		border-radius: 10px;
+	}
+
+	.category-title {
+		font-size: 1.45rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		margin-bottom: 0.25rem;
+		font-family: var(--font-display);
+	}
+
+	.category-desc {
+		font-size: 0.95rem;
+		color: var(--text-secondary);
+		line-height: 1.5;
+	}
+
+	.category-count {
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: var(--accent);
+		background-color: var(--accent-light);
+		padding: 0.35rem 0.75rem;
+		border-radius: 20px;
+		white-space: nowrap;
+	}
+
+	/* Articles Grid */
+	.articles-grid {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+	}
+
+	.article-item {
+		border: 1px solid var(--border-color);
+		border-radius: 12px;
+		transition: var(--transition);
+		background-color: #FAFBF9;
+	}
+
+	.article-item:hover {
+		border-color: var(--accent);
+		background-color: #FFFFFF;
+		box-shadow: var(--shadow-md);
+		transform: translateX(4px);
+	}
+
+	.article-link {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 1.25rem 1.5rem;
+		gap: 1.5rem;
+		text-decoration: none;
+		color: inherit;
+	}
+
+	.article-info {
+		flex: 1;
+	}
+
+	.article-meta {
+		font-size: 0.8rem;
+		color: var(--text-secondary);
+		margin-bottom: 0.35rem;
+	}
+
+	.article-title {
+		font-size: 1.15rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		line-height: 1.35;
+		margin-bottom: 0.4rem;
+		transition: color 0.2s;
+		font-family: var(--font-display);
+	}
+
+	.article-item:hover .article-title {
+		color: var(--accent);
+	}
+
+	.article-snippet {
+		font-size: 0.9rem;
+		color: var(--text-secondary);
+		line-height: 1.5;
+	}
+
+	.article-arrow {
+		display: flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--accent);
+		white-space: nowrap;
+		flex-shrink: 0;
+	}
+
+	.article-item:hover .article-arrow {
+		color: var(--accent-amber);
+	}
+
+	/* Static Pages Block */
+	.static-pages-block {
+		background-color: var(--card-bg);
+		border: 1px solid var(--border-color);
+		border-radius: 16px;
+		padding: 2rem;
+		box-shadow: var(--shadow-sm);
+		scroll-margin-top: 5rem;
+	}
+
+	.pages-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+		gap: 1rem;
+	}
+
+	.page-card {
+		padding: 1.25rem;
+		border: 1px solid var(--border-color);
+		border-radius: 10px;
+		background-color: #FAFBF9;
+		text-decoration: none;
+		color: inherit;
+		transition: var(--transition);
+		display: flex;
+		flex-direction: column;
+		gap: 0.35rem;
+	}
+
+	.page-card:hover {
+		border-color: var(--accent);
+		background-color: #FFFFFF;
+		box-shadow: var(--shadow-sm);
+		transform: translateY(-2px);
+	}
+
+	.page-title {
+		font-size: 1rem;
+		font-weight: 700;
+		color: var(--text-primary);
+		font-family: var(--font-display);
+	}
+
+	.page-card:hover .page-title {
+		color: var(--accent);
+	}
+
+	.page-path {
+		font-size: 0.75rem;
+		font-family: monospace;
+		color: var(--accent);
+		margin-bottom: 0.25rem;
+	}
+
+	.page-desc {
+		font-size: 0.85rem;
+		color: var(--text-secondary);
+		line-height: 1.4;
+	}
+
+	@media (max-width: 640px) {
+		h1 {
+			font-size: 2.2rem;
+		}
+
+		.hero-stats {
+			gap: 1.25rem;
+		}
+
+		.article-link {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 0.75rem;
+		}
+
+		.article-arrow {
+			align-self: flex-start;
+		}
+
+		.category-header {
+			flex-direction: column;
+		}
+	}
+</style>
