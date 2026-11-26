@@ -38,11 +38,10 @@ Berikut langkah praktis yang bisa Anda terapkan:
 2. **Buat Anggaran Bulanan:** Setelah mengetahui pola pengeluaran, susun anggaran dengan metode 50/30/20 atau sesuai kondisi Anda. Tentukan batas maksimal untuk belanja bulanan, transportasi, dan lain-lain.
 3. **Pisahkan Rekening Tabungan:** Buka rekening terpisah untuk tabungan. Segera transfer Rp600 ribu (atau sesuai target) begitu gaji masuk. Jangan menunggu akhir bulan karena risiko terpakai lebih tinggi.
 
-![](/images/uploads/payday-transfer-to-a-savings-jar-3.png)
-
-1. **Gunakan Uang Tunai atau Debit untuk Belanja:** Batasi penggunaan kartu kredit agar tidak tergoda belanja melebihi anggaran. Untuk belanja bulanan, gunakan daftar belanja dan belanja secukupnya.
-2. **Kurangi Jajan dan Belanja Impulsif:** Bawa bekal dari rumah, masak sendiri, dan hindari membeli barang secara kredit. Manfaatkan promo hanya jika benar-benar diperlukan.
-3. **Evaluasi Bulanan:** Di akhir bulan, bandingkan realisasi dengan anggaran. Jika ada kelebihan, tambahkan ke tabungan atau dana darurat.
+   ![](/images/uploads/payday-transfer-to-a-savings-jar-3.png)
+4. **Gunakan Uang Tunai atau Debit untuk Belanja:** Batasi penggunaan kartu kredit agar tidak tergoda belanja melebihi anggaran. Untuk belanja bulanan, gunakan daftar belanja dan belanja secukupnya.
+5. **Kurangi Jajan dan Belanja Impulsif:** Bawa bekal dari rumah, masak sendiri, dan hindari membeli barang secara kredit. Manfaatkan promo hanya jika benar-benar diperlukan.
+6. **Evaluasi Bulanan:** Di akhir bulan, bandingkan realisasi dengan anggaran. Jika ada kelebihan, tambahkan ke tabungan atau dana darurat.
 
 ![Buku anggaran, struk belanja, dan kalkulator untuk mencocokkan pengeluaran dengan rencana.](/images/uploads/end-of-month-budget-check-1.png)
 
