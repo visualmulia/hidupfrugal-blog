@@ -40,7 +40,7 @@ Menurut data, peralatan yang masih tercolok meski tidak digunakan dapat menyumba
 
 **AC adalah salah satu penyebab utama lonjakan tagihan listrik. Mengatur suhu dan perawatan rutin dapat memotong biaya hingga 30%.**
 
-* Setel suhu AC pada 24-26°C, suhu ini cukup nyaman dan hemat energi.
+* Setel suhu AC pada 22-24°C, suhu ini cukup nyaman dan hemat energi.
 * Bersihkan filter AC secara rutin (minimal 2 minggu sekali) agar kinerja tidak berat.
 * Gunakan mode timer atau sleep saat tidur.
 * Tutup pintu dan jendela saat AC menyala.
