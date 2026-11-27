@@ -2,7 +2,7 @@
 title: "Tips Menabung Darurat untuk Persiapan Masa Krisis: Panduan Lengkap"
 date: 2026-11-26
 author: Admin
-featured_image: /images/uploads/couple-planning-savings-together.png
+featured_image: /images/uploads/couple-saving-with-a-yellow-coin-bank-1-.png
 description: Pelajari tips menabung darurat untuk persiapan masa krisis. Mulai
   dari menghitung target, memilih instrumen, hingga strategi konsisten menabung.
 tags:
